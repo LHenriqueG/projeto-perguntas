@@ -1,4 +1,4 @@
-# Projeto Perguntas
+# Projeto Perguntas / Project Questions
 
 Tecnologias/Technologies:
 * HTML
